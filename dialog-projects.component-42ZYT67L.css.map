@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/portfolio/components/dialog/dialog-projects/dialog-projects.component.scss"],
+  "sourcesContent": ["::ng-deep .dialog-container-projects .mdc-dialog_container {\r\n    width: 850px;\r\n}\r\n\r\n:host{\r\n    padding: 10px 30px;\r\n    display: flex;\r\n    flex-direction: column;\r\n\r\n    header, h3, p , mat-dialog-coantent {\r\n        padding: 0;\r\n        margin: 0 0 15px;\r\n    }\r\n\r\n    header {\r\n        display: flex;\r\n        justify-content: space-between;\r\n        align-items: center;\r\n    }\r\n\r\n    h2 {\r\n        font-size: 22px;\r\n        padding: 0;\r\n        margin: 0;\r\n        color: var(--black-010);\r\n    }\r\n\r\n    button {\r\n        background: none;\r\n        border: none;\r\n        padding: 0;\r\n        cursor: pointer;\r\n    }\r\n\r\n    h3 {\r\n        font-size: 18px;\r\n        color: var(--black-010);\r\n    }\r\n\r\n    article {\r\n        margin-bottom: 15px;\r\n\r\n        p {\r\n            font-size: 16px;\r\n        }\r\n    }\r\n\r\n    nav {\r\n        display: flex;\r\n    }\r\n}"],
+  "mappings": "AAAA,UAAA,CAAA,0BAAA,CAAA,qBACI,MAAA,MAGJ,MAJA,QAKI,KAAA,KACA,QAAA,KACA,eAAA,OAEA,MAAA,OAAA,MAAA,GAAA,MAAA,EAAA,MAAA,oBATJ,QAUQ,EAVR,OAWQ,EAAA,EAAA,KAGJ,MAAA,OACI,QAAA,KACA,gBAAA,cACA,YAAA,OAGJ,MAAA,GACI,UAAA,KArBR,QAsBQ,EAtBR,OAuBQ,EACA,MAAA,IAAA,aAGJ,MAAA,OACI,WAAA,KACA,OAAA,KA7BR,QA8BQ,EACA,OAAA,QAGJ,MAAA,GACI,UAAA,KACA,MAAA,IAAA,aAGJ,MAAA,QACI,cAAA,KAEA,MAAA,QAAA,EACI,UAAA,KAIR,MAAA,IACI,QAAA",
+  "names": []
+}
